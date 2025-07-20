@@ -1,0 +1,16 @@
+# Compiled files
+*.o
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+cmake-build-*/
+
+# CLion files
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
